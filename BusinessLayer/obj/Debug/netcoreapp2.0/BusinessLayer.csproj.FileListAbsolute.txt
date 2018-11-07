@@ -1,0 +1,12 @@
+C:\Users\eliso\OneDrive\Pictures\NET\BusinessLayer\bin\Debug\netcoreapp2.0\BusinessLayer.deps.json
+C:\Users\eliso\OneDrive\Pictures\NET\BusinessLayer\bin\Debug\netcoreapp2.0\BusinessLayer.dll
+C:\Users\eliso\OneDrive\Pictures\NET\BusinessLayer\bin\Debug\netcoreapp2.0\BusinessLayer.pdb
+C:\Users\eliso\OneDrive\Pictures\NET\BusinessLayer\bin\Debug\netcoreapp2.0\DataLayer.dll
+C:\Users\eliso\OneDrive\Pictures\NET\BusinessLayer\bin\Debug\netcoreapp2.0\DataLayer.pdb
+C:\Users\eliso\OneDrive\Pictures\NET\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\eliso\OneDrive\Pictures\NET\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\eliso\OneDrive\Pictures\NET\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\eliso\OneDrive\Pictures\NET\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\eliso\OneDrive\Pictures\NET\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.csproj.CopyComplete
+C:\Users\eliso\OneDrive\Pictures\NET\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.dll
+C:\Users\eliso\OneDrive\Pictures\NET\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.pdb

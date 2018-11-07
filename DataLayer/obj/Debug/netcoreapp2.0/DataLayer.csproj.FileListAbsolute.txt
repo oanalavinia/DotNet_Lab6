@@ -1,0 +1,9 @@
+C:\Users\eliso\OneDrive\Pictures\NET\DataLayer\bin\Debug\netcoreapp2.0\DataLayer.deps.json
+C:\Users\eliso\OneDrive\Pictures\NET\DataLayer\bin\Debug\netcoreapp2.0\DataLayer.dll
+C:\Users\eliso\OneDrive\Pictures\NET\DataLayer\bin\Debug\netcoreapp2.0\DataLayer.pdb
+C:\Users\eliso\OneDrive\Pictures\NET\DataLayer\obj\Debug\netcoreapp2.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\eliso\OneDrive\Pictures\NET\DataLayer\obj\Debug\netcoreapp2.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\eliso\OneDrive\Pictures\NET\DataLayer\obj\Debug\netcoreapp2.0\DataLayer.AssemblyInfo.cs
+C:\Users\eliso\OneDrive\Pictures\NET\DataLayer\obj\Debug\netcoreapp2.0\DataLayer.dll
+C:\Users\eliso\OneDrive\Pictures\NET\DataLayer\obj\Debug\netcoreapp2.0\DataLayer.pdb
+C:\Users\eliso\OneDrive\Pictures\NET\DataLayer\obj\Debug\netcoreapp2.0\DataLayer.csprojAssemblyReference.cache
