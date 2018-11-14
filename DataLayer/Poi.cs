@@ -11,6 +11,9 @@ namespace DataLayer
         public string Name { get; private set; }
         public string Description { get; private set; }
 
+        public Guid CityId { get; private set; }
+        public virtual City City { get; private set; }
+
         public Poi()
         {
             //EF Needs This

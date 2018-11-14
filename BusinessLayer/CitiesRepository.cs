@@ -7,9 +7,9 @@ namespace BusinessLayer
 {
     public class CitiesRepository : ICitiesRepository
     {
-        private readonly CitiesContext context;
+        private readonly ApplicationContext context;
 
-        public CitiesRepository(CitiesContext receivedContext)
+        public CitiesRepository(ApplicationContext receivedContext)
         {
             context = receivedContext;
         }

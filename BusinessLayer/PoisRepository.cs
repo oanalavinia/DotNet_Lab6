@@ -5,11 +5,11 @@ using DataLayer;
 
 namespace BusinessLayer
 {
-    class PoisRepository : IPoisRepository
+    public class PoisRepository : IPoisRepository
     {
-        private readonly PoisContext context;
+        private readonly ApplicationContext context;
 
-        public PoisRepository(PoisContext receivedContext)
+        public PoisRepository(ApplicationContext receivedContext)
         {
             context = receivedContext;
         }

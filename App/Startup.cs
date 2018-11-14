@@ -28,6 +28,7 @@ namespace App
             
             services.AddDbContext<CitiesContext>(options => options.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=L06;Trusted_Connection=True;"));
             services.AddTransient<ICitiesRepository, CitiesRepository>();
+            services.AddTransient<IPoisRepository, PoisRepository>();
 
         }
 
