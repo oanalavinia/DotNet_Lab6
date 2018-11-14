@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DataLayer
 {
-    class Poi
+    public class Poi
     {
 
         public Guid Id { get; private set; }

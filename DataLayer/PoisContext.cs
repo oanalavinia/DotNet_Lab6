@@ -2,7 +2,7 @@
 
 namespace DataLayer
 {
-    class PoisContext : DbContext
+    public class PoisContext : DbContext
     {
         public DbSet<Poi> Pois { get; private set; }
 
