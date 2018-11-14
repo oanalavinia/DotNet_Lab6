@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using BusinessLayer;
 using DataLayer;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -12,41 +13,38 @@ namespace Api.Controllers
     [ApiController]
     public class CityController : ControllerBase
     {
-        private readonly ApplicationContext _context;
+        private readonly CitiesRepository _cities;
 
-        public CityController(ApplicationContext context)
+        public CityController(CitiesRepository cities)
         {
-            _context = context;
+            _cities = cities;
 
-            if (_context.Cities.Any()) return;
             // Create a new CityItem if collection is empty,
             // which means you can't delete all TodoItems.
-            _context.Cities.Add(new City("Item1", "Bone" ));
-            _context.SaveChanges();
+            _cities.Add(new City("Item1", "Bone" ));
         }
 
         [HttpGet]
-        public ActionResult<List<City>> GetAll()
+        public ActionResult<IReadOnlyCollection<City>> GetAll()
         {
-            return _context.Cities.ToList();
+            return Ok(_cities.GetAll());
         }
 
         [HttpGet("{id}", Name = "GetCity")]
-        public ActionResult<City> GetById(long id)
+        public ActionResult<City> GetById(Guid id)
         {
-            var city = _context.Cities.Find(id);
+            var city = _cities.GetById(id);
             if (city == null)
             {
                 return NotFound();
             }
-            return city;
+            return Ok(city);
         }
 
         [HttpPost]
         public IActionResult Create(City city)
         {
-            _context.Cities.Add(city);
-            _context.SaveChanges();
+            _cities.Add(city);
 
             return CreatedAtRoute("GetCity", new City(city));
         }

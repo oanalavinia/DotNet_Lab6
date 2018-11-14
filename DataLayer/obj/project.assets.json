@@ -3427,11 +3427,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oana\\Desktop\\DotNet_Lab6-master\\DotNet_Lab6-master\\DataLayer\\DataLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Oana\\Desktop\\ceva\\DotNet_Lab6\\DataLayer\\DataLayer.csproj",
       "projectName": "DataLayer",
-      "projectPath": "C:\\Users\\Oana\\Desktop\\DotNet_Lab6-master\\DotNet_Lab6-master\\DataLayer\\DataLayer.csproj",
+      "projectPath": "C:\\Users\\Oana\\Desktop\\ceva\\DotNet_Lab6\\DataLayer\\DataLayer.csproj",
       "packagesPath": "C:\\Users\\Oana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oana\\Desktop\\DotNet_Lab6-master\\DotNet_Lab6-master\\DataLayer\\obj\\",
+      "outputPath": "C:\\Users\\Oana\\Desktop\\ceva\\DotNet_Lab6\\DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

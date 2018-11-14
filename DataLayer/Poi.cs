@@ -25,5 +25,24 @@ namespace DataLayer
             Name = name;
             Description = description;
         }
+
+        public void SetName(string _name)
+        {
+            Name = _name;
+        }
+
+        public void SetDescription(string description)
+        {
+            Description = description;
+        }
+
+        public void SetCityId(Guid cityId)
+        {
+            CityId = cityId;
+        }
+        public void SetCity(City city)
+        {
+            City = city;
+        }
     }
 }

@@ -34,3 +34,15 @@ C:\Users\Oana\Desktop\DotNet_Lab6-master\DotNet_Lab6-master\BusinessLayer\obj\De
 C:\Users\Oana\Desktop\DotNet_Lab6-master\DotNet_Lab6-master\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.csproj.CopyComplete
 C:\Users\Oana\Desktop\DotNet_Lab6-master\DotNet_Lab6-master\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.dll
 C:\Users\Oana\Desktop\DotNet_Lab6-master\DotNet_Lab6-master\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.pdb
+C:\Users\Oana\Desktop\ceva\DotNet_Lab6\BusinessLayer\bin\Debug\netcoreapp2.0\BusinessLayer.deps.json
+C:\Users\Oana\Desktop\ceva\DotNet_Lab6\BusinessLayer\bin\Debug\netcoreapp2.0\BusinessLayer.dll
+C:\Users\Oana\Desktop\ceva\DotNet_Lab6\BusinessLayer\bin\Debug\netcoreapp2.0\BusinessLayer.pdb
+C:\Users\Oana\Desktop\ceva\DotNet_Lab6\BusinessLayer\bin\Debug\netcoreapp2.0\DataLayer.dll
+C:\Users\Oana\Desktop\ceva\DotNet_Lab6\BusinessLayer\bin\Debug\netcoreapp2.0\DataLayer.pdb
+C:\Users\Oana\Desktop\ceva\DotNet_Lab6\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Oana\Desktop\ceva\DotNet_Lab6\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Oana\Desktop\ceva\DotNet_Lab6\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Oana\Desktop\ceva\DotNet_Lab6\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Oana\Desktop\ceva\DotNet_Lab6\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Oana\Desktop\ceva\DotNet_Lab6\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.dll
+C:\Users\Oana\Desktop\ceva\DotNet_Lab6\BusinessLayer\obj\Debug\netcoreapp2.0\BusinessLayer.pdb
