@@ -8,9 +8,9 @@ namespace DataLayer
         public DbSet<City> Cities { get; set; }
         public DbSet<Poi> Pois { get; set; }
 
-        public ApplicationContext()
+        public ApplicationContext(DbContextOptions<ApplicationContext> options):base(options)
         {
-            Database.EnsureDeleted();
+            //Database.EnsureDeleted();
             Database.EnsureCreated();
         }
 
