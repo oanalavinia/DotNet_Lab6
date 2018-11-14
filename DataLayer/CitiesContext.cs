@@ -8,7 +8,6 @@ namespace DataLayer
 
         public CitiesContext(DbContextOptions options): base(options)
         {
-            //Database.EnsureDeleted();
             Database.EnsureCreated();
         }
     }
